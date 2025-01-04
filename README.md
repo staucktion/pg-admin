@@ -6,6 +6,6 @@
 
 - Launch database. Check [`postgresql`](https://github.com/staucktion/postgresql) repository.
 
-- Rename `.env.dev.example` as `.env` with proper configurations.
+- Rename `.env.example` as `.env` with proper configurations.
 
 - Launch pgAdmin. Check [`docker-config`](https://github.com/staucktion/docker-config) repository.
